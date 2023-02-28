@@ -1,0 +1,6 @@
+ 	 	 	 	LeaveCaveRoom
+ RecoveryRoom 	 	 	 	EmperorRoom
+			CyclopsRoom	EmptyCavePath
+ WeaponRoom 	 	 	EmptyCavePath
+ 	 	 	TreasureRoom
+OgreRoom	TreasureRoom	StartingRoom	TreasureRoom	FindDaggerRoom
