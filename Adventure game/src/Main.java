@@ -12,7 +12,8 @@ public class Main {
         Zombie fastZombie = new Zombie(25);
         Dog spotDog = new Dog("Dog can see in the dark");
         Kaido Emperor = new Kaido("Can turn into Demonic Dragon");
-
+        World world = new World();
+        world.load_tiles();
 
 
         System.out.println(goldbar);
