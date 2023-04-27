@@ -1,0 +1,5 @@
+ 	 	 	LeaveShip
+			SirCrocodileRoom
+ 	 	 	EmptyRoom
+ 	 	 	EnteringShip
+DoflamingoRoom	GeckoMoriaRoom	KaidoRoom	TreasureRoom
